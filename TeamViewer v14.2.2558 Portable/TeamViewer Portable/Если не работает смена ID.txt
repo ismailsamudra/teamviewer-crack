@@ -1,0 +1,1 @@
+Если не работает смена ID, установите loopback-адаптер http://www.windowsfaq.ru/content/view/896/120/.
